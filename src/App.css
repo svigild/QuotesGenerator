@@ -1,0 +1,75 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align:center;
+  
+}
+
+.App-header {
+  background-color: #282C34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: white;
+}
+
+#quote-box {
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  width: 50%;
+  margin: 0 auto;
+  padding: 25px;
+  font-weight: 700;
+  -webkit-box-shadow: 10px 10px 37px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 37px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 37px 0px rgba(0,0,0,0.75);
+}
+
+#tweet-quote {
+  float: left;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+#my-github {
+  float: left;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#author {
+  text-align: end;
+  font-weight: 600;
+}
+
+#new-quote {
+  border: none;
+  border-radius: 6px;
+  float: right;
+  padding: 15px;
+  font-weight: 800;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#new-quote:hover {
+  background-color: #424750;
+}
+
+#quote-icon {
+  color: black;
+}
