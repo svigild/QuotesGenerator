@@ -1,8 +1,8 @@
-# Quotes Generator App made with React
+# 📖 Quotes Generator App made with React
 
-I have made this project for the freeCodeCamp "Front End Development Libraries" course. It has been quite difficult for me since it's my first React project but I have learned a lot. This framework looks so usefull and it will make my websites better. I can't wait to learn more about it :)
+I have made this project for the freeCodeCamp "Front End Development Libraries" course. It has been quite difficult for me since it's my first React project but I have learned a lot. This framework looks so usefull and it will make my websites better. I can't wait to learn more about it 😀
 
-You can also try it for free on the following link: https://svigild.github.io/QuotesGenerator/
+You can also try it for free on the following link ➡️ https://svigild.github.io/QuotesGenerator/
 
 These are some of the random quotes of my project:
 
